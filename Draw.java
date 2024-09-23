@@ -1,5 +1,3 @@
-import com.sun.security.jgss.GSSUtil;
-
 public class Draw {
     public static void main(String[] args){
         int n = 5;
